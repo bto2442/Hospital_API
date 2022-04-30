@@ -38,10 +38,16 @@ https://localhost:7182/api/prescriptions/4
 
 ## GET
 
+![Sample GET](/images/sample_get.PNG)
+
 ## POST
+
+![Sample POST](/images/sample_post.PNG)
 
 ## PUT
 
+![Sample PUT](/images/sample_put.PNG)
+
 ## DELETE
 
-
+![Sample DELETE](/images/sample_delete.PNG)
