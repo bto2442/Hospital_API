@@ -1,18 +1,27 @@
 # Hospital_API
+My Intro to APIs final project
 
 # Hospital Endpoints
+**Patients**
+
 https://localhost:7182/api/patients
 
-https://localhost:7182/api/patients/{id}
+https://localhost:7182/api/patients/1
 
-https://localhost:7182/api/staffs
+**Staffs**
 
-https://localhost:7182/api/staffs{id}
+https://localhost:7182/api/Staffs
 
-https://localhost:7182/api/diagnoses
+https://localhost:7182/api/Staffs/2
 
-https://localhost:7182/api/diagnoses{id}
+**Diagnoses**
 
-https://localhost:7182/api/prescriptions
+https://localhost:7182/api/Diagnoses
 
-https://localhost:7182/api/prescriptions{id}
+https://localhost:7182/api/Diagnoses/3
+
+**Prescriptions**
+
+https://localhost:7182/api/Prescriptions
+
+https://localhost:7182/api/Prescriptions/4
