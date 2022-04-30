@@ -10,18 +10,18 @@ https://localhost:7182/api/patients/1
 
 **Staffs**
 
-https://localhost:7182/api/Staffs
+https://localhost:7182/api/staffs
 
-https://localhost:7182/api/Staffs/2
+https://localhost:7182/api/staffs/2
 
 **Diagnoses**
 
-https://localhost:7182/api/Diagnoses
+https://localhost:7182/api/diagnoses
 
-https://localhost:7182/api/Diagnoses/3
+https://localhost:7182/api/diagnoses/3
 
 **Prescriptions**
 
-https://localhost:7182/api/Prescriptions
+https://localhost:7182/api/prescriptions
 
-https://localhost:7182/api/Prescriptions/4
+https://localhost:7182/api/prescriptions/4
