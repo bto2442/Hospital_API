@@ -1,3 +1,10 @@
+#Changes Made
+
+- Removed Room table and Bill table from inital idea
+- Altered Patient to not have room and doctor rows but instead only contain staff
+- Changed dischared from DATE_TIME to Boolean
+- Added some NOT_NULLS into Patients, Staffs, Prescriptions, and Diagnosis
+
 # Hospital Endpoints
 
 These are the endpoints available in my API
