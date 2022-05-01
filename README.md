@@ -1,4 +1,4 @@
-#Changes Made
+# Changes Made
 
 - Removed Room table and Bill table from inital idea
 - Altered Patient to not have room and doctor rows but instead only contain staff
